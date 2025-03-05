@@ -1,11 +1,11 @@
 # Parcial-Lenguajes
 
-### Punto 1
- 1. Crear el archivo de prueba con tokens:
+## Punto 1
+ ### 1. Crear el archivo de prueba con tokens:
 
 echo "+\n++\n123\n45.67" > token.txt
 
- 2. Ejecutar el programa AWK:
+ ### 2. Ejecutar el programa AWK:
 
 awk -f token.awk token.txt
 

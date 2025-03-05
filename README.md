@@ -1,6 +1,6 @@
 # Parcial-Lenguajes
 
-## Punto 1
+# Punto 1
  ### 1. Crear el archivo de prueba con tokens:
 
 echo "+\n++\n123\n45.67" > token.txt
@@ -9,7 +9,7 @@ echo "+\n++\n123\n45.67" > token.txt
 
 awk -f token.awk token.txt
 
-### Punto 2
+# Punto 2
 
 ### 1. Generar el código en C con LEX:
 
@@ -27,7 +27,7 @@ echo "square = lambda x: x ** 2" > archivo.txt
 
 ./lambda < archivo.txt
 
-### Punto 3 
+# Punto 3 
 
 ### 1. Compilar el programa en C:
 
@@ -41,7 +41,7 @@ echo "arroz arroz arroz pan arroz" > texto.txt
 
 ./programa texto.txt ejemplo
 
-### Punto 4
+# Punto 4
 ### 1. Compilar y ejecutar el programa en C:
 
 gcc suma.c -o suma
@@ -59,7 +59,7 @@ En conclusion C será más rápido porque es compilado.
 Python será más lento porque es interpretado.
 
 
-### Punto 5 
+# Punto 5 
 
 ### 1. Generar los archivos con ANTLR (Ya estan cargados):
 

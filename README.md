@@ -1,6 +1,10 @@
 # Parcial-Lenguajes
 
-# Punto 1
+# Punto 1 
+Archivos:  
+- token.txt
+- token.awk
+
  ### 1. Crear el archivo de prueba con tokens:
 
 echo "+\n++\n123\n45.67" > token.txt
